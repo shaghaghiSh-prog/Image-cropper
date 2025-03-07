@@ -1,3 +1,10 @@
+## Demo
+
+You can view the demo of the project [here](https://image-cropper-blush.vercel.app/).
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
